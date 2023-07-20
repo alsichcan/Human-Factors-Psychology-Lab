@@ -1,17 +1,18 @@
 # Human Factors Psychology Lab
-Undergraduate Research Assistant at Human Factors Psychology Lab
+Undergraduate Research Assistant at Human Factors Psychology Lab  
+Prof. Sowon Hahn's Lab (https://hfpsych.snu.ac.kr/) for Human-AI Interaction.
 
-Research Project with Smilegate AI  
+### **AI Research Project with a Korean Top 5 Game Company**  
 🌐 human_dialog_processing.ipynb  
 🔸Pre-processed 2,300 dialogs and surveys from crowdsourcing with a Python script  
 🔸Published "Feels like I’ve known you forever”: Empathy and Self-Awareness in Human Open-Domain Dialogs" at CogSci 2022  
 
-Other Assignments  
+### **Other Assignments** 
 🌐 emotion_diary_processing.py  
 🔸Pre-processed collected emotion diary data for further research with a Python script  
 🔸Reviewed and corrected the labeling quality of the utterance-cognitive error dataset  
 
-Personal Research   
+### **Personal Research**   
 > From Bimodal to Multimodal:Augmented MELD for Emotion Recognition in Conversations
 
 🌐 augmentd_MELD_preprocessing.ipynb  
